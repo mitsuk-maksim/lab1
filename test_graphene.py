@@ -1,3 +1,11 @@
+"""
+Это тест 1
+
+"""
+
+
+
+
 import graphene
 
 class CreatePerson(graphene.Mutation):
