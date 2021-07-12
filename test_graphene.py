@@ -36,4 +36,3 @@ Another feature
 """Next another func"""
 
 # next branch
-# and add new comment
