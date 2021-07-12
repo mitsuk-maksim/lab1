@@ -32,3 +32,5 @@ Some feature
 """
 Another feature
 """
+
+"""Next another func"""
