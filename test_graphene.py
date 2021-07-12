@@ -29,3 +29,5 @@ print(schema)
 """
 Some feature
 """
+
+"""Next another func"""
