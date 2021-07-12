@@ -29,3 +29,6 @@ print(schema)
 """
 Some feature
 """
+"""
+Another feature
+"""
